@@ -13,3 +13,4 @@ click here: https://support.shotgunsoftware.com/entries/95441247.
 
 ## Have a Question?
 Don't hesitate to contact us! You can find us on support@shotgunsoftware.com
+## 增加自定义更新功能，比如texture folder 类型的更新。
